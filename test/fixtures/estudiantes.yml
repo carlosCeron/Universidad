@@ -1,0 +1,17 @@
+# Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/Fixtures.html
+
+one:
+  nombre: MyString
+  apellido: MyString
+  fecha_nacimiento: 2012-12-18
+  activo: false
+  codigo: MyString
+  inscripcion: 2012-12-18 22:57:14
+
+two:
+  nombre: MyString
+  apellido: MyString
+  fecha_nacimiento: 2012-12-18
+  activo: false
+  codigo: MyString
+  inscripcion: 2012-12-18 22:57:14
